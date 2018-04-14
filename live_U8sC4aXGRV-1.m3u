@@ -1,0 +1,597 @@
+#EXTM3U
+#EXTINF:-1,---- IPTV ----
+http://obli.cc/service/U8sC4aXGRV/NQi7AaMrjy/info.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1 HD" tvg-logo="" group-title="",Rai1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/46.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2 HD" tvg-logo="" group-title="",Rai2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/47.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3 HD" tvg-logo="" group-title="",Rai3 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/48.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="" group-title="",Rete 4 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/49.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="" group-title="",Canale 5 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/50.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1HD" tvg-logo="" group-title="",Italia 1HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/51.ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="" group-title="",Rai 4
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/59.ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="" group-title="",Rai 5
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/55.ts
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La5" tvg-logo="" group-title="",La5
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/56.ts
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="" group-title="",La7
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/52.ts
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central HD" tvg-logo="" group-title="",Comedy Central HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/783.ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="" group-title="",Rai Premium
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/6.ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="" group-title="",Rai Scuola
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/5.ts
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD" tvg-logo="" group-title="",Rai Sport 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/60.ts
+#EXTINF:-1 tvg-id="RaiSport2.it" tvg-name="Rai Sport 2" tvg-logo="" group-title="",Rai Sport 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/4.ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" group-title="",Rai Storia
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/58.ts
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI LA 1 HD" tvg-logo="" group-title="",RSI LA 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/53.ts
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI LA 2 HD" tvg-logo="" group-title="",RSI LA 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Cinema" tvg-logo="" group-title="",[TELECLUB] Teleclub Cinema
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/709.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Star" tvg-logo="" group-title="",[TELECLUB] Teleclub Star
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/704.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Prime" tvg-logo="" group-title="",[TELECLUB] Teleclub Prime
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/708.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Sport 1" tvg-logo="" group-title="",[TELECLUB] Teleclub Sport 1
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/707.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Sport 2" tvg-logo="" group-title="",[TELECLUB] Teleclub Sport 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/706.ts
+#EXTINF:-1 tvg-id="" tvg-name="[TELECLUB] Teleclub Sport 3" tvg-logo="" group-title="",[TELECLUB] Teleclub Sport 3
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/705.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Teleticino HD" tvg-logo="" group-title="",[CH] Teleticino HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/719.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Telezuri" tvg-logo="" group-title="",[CH] Telezuri
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/718.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RTS Deux HD" tvg-logo="" group-title="",[CH] RTS Deux HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/724.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RTS Un HD" tvg-logo="" group-title="",[CH] RTS Un HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/723.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF 1 HD" tvg-logo="" group-title="",[CH] SRF 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/722.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF 2 HD" tvg-logo="" group-title="",[CH] SRF 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/721.ts
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF Info HD" tvg-logo="" group-title="",[CH] SRF Info HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/720.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- MEDIASET PREMIUM ----" tvg-logo="" group-title="",---- MEDIASET PREMIUM ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/272.ts
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="" group-title="",Premium Cinema HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/273.ts
+#EXTINF:-1 tvg-id="PremiumCinema2.it" tvg-name="Premium Cinema 2 HD" tvg-logo="" group-title="",Premium Cinema 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/274.ts
+#EXTINF:-1 tvg-id="PremiumCinemaPlus24.it" tvg-name="Premium Cinema  24" tvg-logo="" group-title="",Premium Cinema  24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/284.ts
+#EXTINF:-1 tvg-id="PremiumCinema2Plus24.it" tvg-name="Premium Cinema 2  24" tvg-logo="" group-title="",Premium Cinema 2  24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/285.ts
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy HD" tvg-logo="" group-title="",Premium Cinema Energy HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/12.ts
+#EXTINF:-1 tvg-id="PremiumActionPlus24.it" tvg-name="Premium Action  24" tvg-logo="" group-title="",Premium Action  24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/277.ts
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="" group-title="",Premium Action HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/276.ts
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Premium TopCrime" tvg-logo="" group-title="",Premium TopCrime
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/282.ts
+#EXTINF:-1 tvg-id="Stories.it" tvg-name="Premium Stories" tvg-logo="" group-title="",Premium Stories
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/280.ts
+#EXTINF:-1 tvg-id="StudioUniversal.it" tvg-name="Premium Studio Universal" tvg-logo="" group-title="",Premium Studio Universal
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/281.ts
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="" group-title="",Premium Crime HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/283.ts
+#EXTINF:-1 tvg-id="PremiumCrimePlus24.it" tvg-name="Premium Crime  24" tvg-logo="" group-title="",Premium Crime  24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/42.ts
+#EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="Premium Comedy" tvg-logo="" group-title="",Premium Comedy
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/278.ts
+#EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="Premium Emotion" tvg-logo="" group-title="",Premium Emotion
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/275.ts
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Premium Eurosport" tvg-logo="" group-title="",Premium Eurosport
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Eurosport 2" tvg-logo="" group-title="",Premium Eurosport 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/291.ts
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Premium Extra" tvg-logo="" group-title="",Premium Extra
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Fine Living" tvg-logo="" group-title="",Premium Fine Living
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/287.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.it" tvg-name="Premium Investigation Discovery" tvg-logo="" group-title="",Premium Investigation Discovery
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/11.ts
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Premium Italiadue" tvg-logo="" group-title="",Premium Italiadue
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/286.ts
+#EXTINF:-1 tvg-id="Joi.it" tvg-name="Premium Joi" tvg-logo="" group-title="",Premium Joi
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/279.ts
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Premium Sport Italia" tvg-logo="" group-title="",Premium Sport Italia
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/289.ts
+#EXTINF:-1 tvg-id="PremiumSport.it" tvg-name="Premium Sport HD H.265" tvg-logo="" group-title="",Premium Sport HD H.265
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/696.ts
+#EXTINF:-1 tvg-id="PremiumSport.it" tvg-name="Premium Sport HD" tvg-logo="" group-title="",Premium Sport HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/292.ts
+#EXTINF:-1 tvg-id="PremiumSport2.it" tvg-name="Premium Sport 2 HD H.265" tvg-logo="" group-title="",Premium Sport 2 HD H.265
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/697.ts
+#EXTINF:-1 tvg-id="PremiumSport2.it" tvg-name="Premium Sport 2 HD" tvg-logo="" group-title="",Premium Sport 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/43.ts
+#EXTINF:-1 tvg-id="PremiumCalcio1.it" tvg-name="Premium Calcio 1 HD" tvg-logo="" group-title="",Premium Calcio 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/293.ts
+#EXTINF:-1 tvg-id="PremiumCalcio2.it" tvg-name="Premium Calcio 2 HD" tvg-logo="" group-title="",Premium Calcio 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Calcio SD" tvg-logo="" group-title="",Premium Calcio SD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/694.ts
+#EXTINF:-1 tvg-id="PremiumCalcio1.it" tvg-name="Premium Calcio 1" tvg-logo="" group-title="",Premium Calcio 1
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/295.ts
+#EXTINF:-1 tvg-id="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="" group-title="",Premium Calcio 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/296.ts
+#EXTINF:-1 tvg-id="PremiumCalcio3.it" tvg-name="Premium Calcio 3" tvg-logo="" group-title="",Premium Calcio 3
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/297.ts
+#EXTINF:-1 tvg-id="PremiumCalcio4.it" tvg-name="Premium Calcio 4" tvg-logo="" group-title="",Premium Calcio 4
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/298.ts
+#EXTINF:-1 tvg-id="PremiumCalcio5.it" tvg-name="Premium Calcio 5" tvg-logo="" group-title="",Premium Calcio 5
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/299.ts
+#EXTINF:-1 tvg-id="PremiumCalcio6.it" tvg-name="Premium Calcio 6" tvg-logo="" group-title="",Premium Calcio 6
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY INTRATTENIMENTO ----" tvg-logo="" group-title="",---- SKY INTRATTENIMENTO ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/62.ts
+#EXTINF:-1 tvg-id="SKYUno.it" tvg-name="Sky Uno Full HD" tvg-logo="" group-title="",Sky Uno Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/17.ts
+#EXTINF:-1 tvg-id="SKYUno.it" tvg-name="Sky Uno HD" tvg-logo="" group-title="",Sky Uno HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno +1 HD" tvg-logo="" group-title="",Sky Uno +1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/64.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic SUPER HD" tvg-logo="" group-title="",Sky Atlantic SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/692.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="",Sky Atlantic HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/66.ts
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox HD" tvg-logo="" group-title="",Fox HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/72.ts
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="" group-title="",Fox Life HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/69.ts
+#EXTINF:-1 tvg-id="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="" group-title="",Fox Animation HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/75.ts
+#EXTINF:-1 tvg-id="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="" group-title="",Fox Comedy HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/77.ts
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="" group-title="",Fox Crime HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/79.ts
+#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="Laeffe HD" tvg-logo="" group-title="",Laeffe HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/85.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Realtime HD" tvg-logo="" group-title="",Realtime HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/90.ts
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="" group-title="",Iris
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/57.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime Inv HD" tvg-logo="" group-title="",Crime Inv HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/82.ts
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD" tvg-logo="" group-title="",DMAX HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/92.ts
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo HD" tvg-logo="" group-title="",Cielo HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/89.ts
+#EXTINF:-1 tvg-id="Classica.it" tvg-name="Classica HD" tvg-logo="" group-title="",Classica HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY CINEMA ----" tvg-logo="" group-title="",---- SKY CINEMA ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/97.ts
+#EXTINF:-1 tvg-id="Sky3D.it" tvg-name="Sky 3D" tvg-logo="" group-title="",Sky 3D
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/98.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 SUPER HD" tvg-logo="" group-title="",Sky Cinema 1 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/33.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 HD" tvg-logo="" group-title="",Sky Cinema 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/99.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Sky Cinema  24 Full HD" tvg-logo="" group-title="",Sky Cinema  24 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/30.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Sky Cinema  24 HD" tvg-logo="" group-title="",Sky Cinema  24 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/102.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassic.it" tvg-name="Sky Cinema Classic Full HD" tvg-logo="" group-title="",Sky Cinema Classic Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/29.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassic.it" tvg-name="Sky Cinema Classic HD" tvg-logo="" group-title="",Sky Cinema Classic HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/118.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-name="Sky Cinema Comedy SUPER HD" tvg-logo="" group-title="",Sky Cinema Comedy SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/18.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="",Sky Cinema Comedy HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/111.ts
+#EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult Full HD" tvg-logo="" group-title="",Sky Cinema Cult Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/28.ts
+#EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult HD" tvg-logo="" group-title="",Sky Cinema Cult HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/116.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SUPER HD" tvg-logo="" group-title="",Sky Cinema Family SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/23.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="",Sky Cinema Family HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/106.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits SUPER HD" tvg-logo="" group-title="",Sky Cinema Hits SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/27.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits HD" tvg-logo="" group-title="",Sky Cinema Hits HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/104.ts
+#EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max SUPER HD" tvg-logo="" group-title="",Sky Cinema Max SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/32.ts
+#EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max HD" tvg-logo="" group-title="",Sky Cinema Max HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/113.ts
+#EXTINF:-1 tvg-id="SkyCinemaPassionHD.it" tvg-name="Sky Cinema Passion Full HD" tvg-logo="" group-title="",Sky Cinema Passion Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/26.ts
+#EXTINF:-1 tvg-id="SkyCinemaPassionHD.it" tvg-name="Sky Cinema Passion HD" tvg-logo="" group-title="",Sky Cinema Passion HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- PRIMAFILA  ----" tvg-logo="" group-title="",---- PRIMAFILA  ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/120.ts
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Primafila 1 HD" tvg-logo="" group-title="",Primafila 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/121.ts
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Primafila 2" tvg-logo="" group-title="",Primafila 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/122.ts
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Primafila 3 HD" tvg-logo="" group-title="",Primafila 3 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/123.ts
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Primafila 4" tvg-logo="" group-title="",Primafila 4
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/124.ts
+#EXTINF:-1 tvg-id="Primafila5.it" tvg-name="Primafila 5 HD" tvg-logo="" group-title="",Primafila 5 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/125.ts
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Primafila 6" tvg-logo="" group-title="",Primafila 6
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/126.ts
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="Primafila 7 HD" tvg-logo="" group-title="",Primafila 7 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/127.ts
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Primafila 8" tvg-logo="" group-title="",Primafila 8
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/128.ts
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Primafila 9 HD" tvg-logo="" group-title="",Primafila 9 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/129.ts
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Primafila 10" tvg-logo="" group-title="",Primafila 10
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/130.ts
+#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Primafila 11 HD" tvg-logo="" group-title="",Primafila 11 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/131.ts
+#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Primafila 12" tvg-logo="" group-title="",Primafila 12
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/132.ts
+#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Primafila 13 HD" tvg-logo="" group-title="",Primafila 13 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/133.ts
+#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Primafila 14" tvg-logo="" group-title="",Primafila 14
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/134.ts
+#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Primafila 15" tvg-logo="" group-title="",Primafila 15
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/135.ts
+#EXTINF:-1 tvg-id="Primafila16.it" tvg-name="Primafila 16" tvg-logo="" group-title="",Primafila 16
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/136.ts
+#EXTINF:-1 tvg-id="Primafila17.it" tvg-name="Primafila 17" tvg-logo="" group-title="",Primafila 17
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/137.ts
+#EXTINF:-1 tvg-id="Primafila18.it" tvg-name="Primafila 18" tvg-logo="" group-title="",Primafila 18
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/138.ts
+#EXTINF:-1 tvg-id="Primafila19.it" tvg-name="Primafila 19" tvg-logo="" group-title="",Primafila 19
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 1 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 1 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 2 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 2 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/674.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 3 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 4 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 4 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/676.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 5 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 5 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 6 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 6 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/678.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 7 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 7 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 8 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/680.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 9 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 9 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 10 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 10 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/682.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 11 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 11 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 12 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 12 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/684.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 13 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 13 HD On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 14 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 14 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/686.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 15 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 15 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/687.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 16 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 16 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/688.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 17 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 17 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/689.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 18 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 18 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/690.avi
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 19 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 19 On_Demand
+http://livecdn.info:80/movie/U8sC4aXGRV/NQi7AaMrjy/691.avi
+#EXTINF:-1 tvg-id="" tvg-name="---- NEWS ----" tvg-logo="" group-title="",---- NEWS ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/244.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="" group-title="",Sky Tg 24 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/245.ts
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24" tvg-logo="" group-title="",Tgcom24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="",Euronews
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/248.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24" tvg-logo="" group-title="",Rai News 24
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY CULTURA ----" tvg-logo="" group-title="",---- SKY CULTURA ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/159.ts
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte Full HD" tvg-logo="" group-title="",Sky Arte Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/31.ts
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="",Sky Arte HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/160.ts
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel HD" tvg-logo="" group-title="",Discovery Channel HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/162.ts
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci Full HD" tvg-logo="" group-title="",Discovery Sci Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/16.ts
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="" group-title="",Discovery Sci HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/168.ts
+#EXTINF:-1 tvg-id="DiscoveryTravel.it" tvg-name="Discovery Travel & Living Full HD" tvg-logo="" group-title="",Discovery Travel & Living Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/15.ts
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="" group-title="",Gambero Rosso HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/181.ts
+#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="" group-title="",History HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/172.ts
+#EXTINF:-1 tvg-id="DiscoveryTravel.it" tvg-name="Discovery Travel & Living HD" tvg-logo="" group-title="",Discovery Travel & Living HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/170.ts
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="National Geo HD" tvg-logo="" group-title="",National Geo HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/165.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="National Geo People Full HD" tvg-logo="" group-title="",National Geo People Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/14.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="National Geo People HD" tvg-logo="" group-title="",National Geo People HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/178.ts
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="National Wild Full HD" tvg-logo="" group-title="",National Wild Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/13.ts
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="National Wild HD" tvg-logo="" group-title="",National Wild HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY SPORT ----" tvg-logo="" group-title="",---- SKY SPORT ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/183.ts
+#EXTINF:-1 tvg-id="SKYSport1.it" tvg-name="Sky Sport 1 SUPER HD" tvg-logo="" group-title="",Sky Sport 1 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/25.ts
+#EXTINF:-1 tvg-id="SKYSport1.it" tvg-name="Sky Sport 1 HD" tvg-logo="" group-title="",Sky Sport 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/186.ts
+#EXTINF:-1 tvg-id="SKYSport2.it" tvg-name="Sky Sport 2 Full HD" tvg-logo="" group-title="",Sky Sport 2 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/22.ts
+#EXTINF:-1 tvg-id="SKYSport2.it" tvg-name="Sky Sport 2 HD" tvg-logo="" group-title="",Sky Sport 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/188.ts
+#EXTINF:-1 tvg-id="SKYSport3.it" tvg-name="Sky Sport 3 Full HD" tvg-logo="" group-title="",Sky Sport 3 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/20.ts
+#EXTINF:-1 tvg-id="SKYSport3.it" tvg-name="Sky Sport 3 HD" tvg-logo="" group-title="",Sky Sport 3 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/190.ts
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="",Sky Sport 24 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/21.ts
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="" group-title="",Sky Sport 24 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/184.ts
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix HD" tvg-logo="" group-title="",Sky Sport Mix HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/3.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 SUPER HD" tvg-logo="" group-title="",Sky Sport F1 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/24.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="",Sky Sport F1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/193.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP SUPER HD" tvg-logo="" group-title="",Sky Sport Moto GP SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/19.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP" tvg-logo="" group-title="",Sky Sport Moto GP
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/195.ts
+#EXTINF:-1 tvg-id="SkySportPlus.it" tvg-name="Sky Sport Plus HD" tvg-logo="" group-title="",Sky Sport Plus HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/2.ts
+#EXTINF:-1 tvg-id="FoxSports.it" tvg-name="Fox Sports HD" tvg-logo="" group-title="",Fox Sports HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/192.ts
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel" tvg-logo="" group-title="",Bike Channel
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/44.ts
+#EXTINF:-1 tvg-id="CACCIAePesca.it" tvg-name="Caccia e Pesca" tvg-logo="" group-title="",Caccia e Pesca
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/217.ts
+#EXTINF:-1 tvg-id="CacciaePESCA.it" tvg-name="Pesca e Caccia" tvg-logo="" group-title="",Pesca e Caccia
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pescare & Cacciare TV" tvg-logo="" group-title="",Pescare & Cacciare TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/700.ts
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis HD" tvg-logo="" group-title="",SuperTennis HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/197.ts
+#EXTINF:-1 tvg-id="UnireSat.it" tvg-name="UnireSat HD" tvg-logo="" group-title="",UnireSat HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/703.ts
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel" tvg-logo="" group-title="",Inter Channel
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/214.ts
+#EXTINF:-1 tvg-id="JuventusChannel.it" tvg-name="Juventus TV" tvg-logo="" group-title="",Juventus TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/213.ts
+#EXTINF:-1 tvg-id="RomaChannel.it" tvg-name="Roma TV" tvg-logo="" group-title="",Roma TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/215.ts
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel" tvg-logo="" group-title="",Lazio Style Channel
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/216.ts
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan Channel" tvg-logo="" group-title="",Milan Channel
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/212.ts
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio SUPER HD" tvg-logo="" group-title="",Sky Supercalcio SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/693.ts
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio HD" tvg-logo="" group-title="",Sky Supercalcio HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/198.ts
+#EXTINF:-1 tvg-id="SkyCalcio1.it" tvg-name="Sky Calcio 1 SUPER HD" tvg-logo="" group-title="",Sky Calcio 1 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/41.ts
+#EXTINF:-1 tvg-id="SkyCalcio1.it" tvg-name="Sky Calcio 1 HD" tvg-logo="" group-title="",Sky Calcio 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/199.ts
+#EXTINF:-1 tvg-id="SkyCalcio2.it" tvg-name="Sky Calcio 2 SUPER HD" tvg-logo="" group-title="",Sky Calcio 2 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/40.ts
+#EXTINF:-1 tvg-id="SkyCalcio2.it" tvg-name="Sky Calcio 2 HD" tvg-logo="" group-title="",Sky Calcio 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/200.ts
+#EXTINF:-1 tvg-id="SkyCalcio3.it" tvg-name="Sky Calcio 3 SUPER HD" tvg-logo="" group-title="",Sky Calcio 3 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/39.ts
+#EXTINF:-1 tvg-id="SkyCalcio3.it" tvg-name="Sky Calcio 3 HD" tvg-logo="" group-title="",Sky Calcio 3 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/201.ts
+#EXTINF:-1 tvg-id="SkyCalcio4.it" tvg-name="Sky Calcio 4 SUPER HD" tvg-logo="" group-title="",Sky Calcio 4 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/38.ts
+#EXTINF:-1 tvg-id="SkyCalcio4.it" tvg-name="Sky Calcio 4 HD" tvg-logo="" group-title="",Sky Calcio 4 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/202.ts
+#EXTINF:-1 tvg-id="SkyCalcio5.it" tvg-name="Sky Calcio 5 SUPER HD" tvg-logo="" group-title="",Sky Calcio 5 SUPER HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/37.ts
+#EXTINF:-1 tvg-id="SkyCalcio5.it" tvg-name="Sky Calcio 5 HD" tvg-logo="" group-title="",Sky Calcio 5 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/203.ts
+#EXTINF:-1 tvg-id="SkyCalcio6.it" tvg-name="Sky Calcio 6 Full HD" tvg-logo="" group-title="",Sky Calcio 6 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/36.ts
+#EXTINF:-1 tvg-id="SkyCalcio6.it" tvg-name="Sky Calcio 6 HD" tvg-logo="" group-title="",Sky Calcio 6 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/204.ts
+#EXTINF:-1 tvg-id="SkyCalcio7.it" tvg-name="Sky Calcio 7 Full HD" tvg-logo="" group-title="",Sky Calcio 7 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/35.ts
+#EXTINF:-1 tvg-id="SkyCalcio7.it" tvg-name="Sky Calcio 7 HD" tvg-logo="" group-title="",Sky Calcio 7 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/205.ts
+#EXTINF:-1 tvg-id="SkyCalcio8.it" tvg-name="Sky Calcio 8 Full HD" tvg-logo="" group-title="",Sky Calcio 8 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/34.ts
+#EXTINF:-1 tvg-id="SkyCalcio8.it" tvg-name="Sky Calcio 8 HD" tvg-logo="" group-title="",Sky Calcio 8 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/206.ts
+#EXTINF:-1 tvg-id="SkyCalcio9.it" tvg-name="Sky Calcio 9 Full HD" tvg-logo="" group-title="",Sky Calcio 9 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/207.ts
+#EXTINF:-1 tvg-id="SkyCalcio10.it" tvg-name="Sky Calcio 10 Full HD" tvg-logo="" group-title="",Sky Calcio 10 Full HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/208.ts
+#EXTINF:-1 tvg-id="SkyCalcio11.it" tvg-name="Sky Calcio 11" tvg-logo="" group-title="",Sky Calcio 11
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/209.ts
+#EXTINF:-1 tvg-id="SkyCalcio12.it" tvg-name="Sky Calcio 12" tvg-logo="" group-title="",Sky Calcio 12
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/210.ts
+#EXTINF:-1 tvg-id="SkyCalcio13.it" tvg-name="Sky Calcio 13" tvg-logo="" group-title="",Sky Calcio 13
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="------ GRUPPO A ------" tvg-logo="" group-title="",------ GRUPPO A ------
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/774.ts
+#EXTINF:-1 tvg-id="" tvg-name="C (A) DIRETTA EVENTO 1" tvg-logo="" group-title="",C (A) DIRETTA EVENTO 1
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/773.ts
+#EXTINF:-1 tvg-id="" tvg-name="C (A) DIRETTA EVENTO 2" tvg-logo="" group-title="",C (A) DIRETTA EVENTO 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C ALESSANDRIA" tvg-logo="" group-title="",Serie-C ALESSANDRIA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C FANO" tvg-logo="" group-title="",Serie-C FANO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C GUBBIO" tvg-logo="" group-title="",Serie-C GUBBIO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PADOVA" tvg-logo="" group-title="",Serie-C PADOVA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PORDENONE" tvg-logo="" group-title="",Serie-C PORDENONE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C RAVENNA" tvg-logo="" group-title="",Serie-C RAVENNA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C RENATE" tvg-logo="" group-title="",Serie-C RENATE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C TRIESTINA" tvg-logo="" group-title="",Serie-C TRIESTINA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C VICENZA" tvg-logo="" group-title="",Serie-C VICENZA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C LIVORNO" tvg-logo="" group-title="",Serie-C LIVORNO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PISA" tvg-logo="" group-title="",Serie-C PISA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C CARRARESE" tvg-logo="" group-title="",Serie-C CARRARESE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C CUNEO" tvg-logo="" group-title="",Serie-C CUNEO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PONTEDERA" tvg-logo="" group-title="",Serie-C PONTEDERA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PRATO" tvg-logo="" group-title="",Serie-C PRATO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C REGGINA" tvg-logo="" group-title="",Serie-C REGGINA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C SIENA" tvg-logo="" group-title="",Serie-C SIENA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C VITERBESE" tvg-logo="" group-title="",Serie-C VITERBESE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C REGGiANA" tvg-logo="" group-title="",Serie-C REGGiANA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C AKRAGAS" tvg-logo="" group-title="",Serie-C AKRAGAS
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C CASERTANA" tvg-logo="" group-title="",Serie-C CASERTANA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C CATANIA" tvg-logo="" group-title="",Serie-C CATANIA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C COSENZA" tvg-logo="" group-title="",Serie-C COSENZA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C FIDELIS ANDRIA" tvg-logo="" group-title="",Serie-C FIDELIS ANDRIA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C JUVE STABIA" tvg-logo="" group-title="",Serie-C JUVE STABIA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C LECCE" tvg-logo="" group-title="",Serie-C LECCE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/756.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C SIRACUSA" tvg-logo="" group-title="",Serie-C SIRACUSA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C TRAPANI" tvg-logo="" group-title="",Serie-C TRAPANI
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C BISCEGLIE" tvg-logo="" group-title="",Serie-C BISCEGLIE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C CATANZARO" tvg-logo="" group-title="",Serie-C CATANZARO
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C FRANCAVILLA" tvg-logo="" group-title="",Serie-C FRANCAVILLA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C MATERA" tvg-logo="" group-title="",Serie-C MATERA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C MONOPOLI" tvg-logo="" group-title="",Serie-C MONOPOLI
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C PAGANESE" tvg-logo="" group-title="",Serie-C PAGANESE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C RENDE" tvg-logo="" group-title="",Serie-C RENDE
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie-C SICULA" tvg-logo="" group-title="",Serie-C SICULA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/742.ts
+#EXTINF:-1 tvg-id="" tvg-name="------ VOLLEY SUPERLEGA & A2 ------" tvg-logo="" group-title="",------ VOLLEY SUPERLEGA & A2 ------
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/735.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA1" tvg-logo="" group-title="",VOLLEY:DIRETTA1
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/734.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 2" tvg-logo="" group-title="",VOLLEY:DIRETTA 2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 3" tvg-logo="" group-title="",VOLLEY:DIRETTA 3
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/732.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 4" tvg-logo="" group-title="",VOLLEY:DIRETTA 4
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/731.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 5" tvg-logo="" group-title="",VOLLEY:DIRETTA 5
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/730.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 6" tvg-logo="" group-title="",VOLLEY:DIRETTA 6
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/729.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 7" tvg-logo="" group-title="",VOLLEY:DIRETTA 7
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/728.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 8" tvg-logo="" group-title="",VOLLEY:DIRETTA 8
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/727.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 9" tvg-logo="" group-title="",VOLLEY:DIRETTA 9
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/726.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HERMES] Mosaico MySports UPC" tvg-logo="" group-title="",[HERMES] Mosaico MySports UPC
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/717.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports HD" tvg-logo="" group-title="",[HOCKEY] MySports HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/710.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 1 HD" tvg-logo="" group-title="",[HOCKEY] MySports 1 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/716.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 2 HD" tvg-logo="" group-title="",[HOCKEY] MySports 2 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/715.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 3 HD" tvg-logo="" group-title="",[HOCKEY] MySports 3 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/714.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 4 HD" tvg-logo="" group-title="",[HOCKEY] MySports 4 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/713.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 5 HD" tvg-logo="" group-title="",[HOCKEY] MySports 5 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/712.ts
+#EXTINF:-1 tvg-id="" tvg-name="[HOCKEY] MySports 6 HD" tvg-logo="" group-title="",[HOCKEY] MySports 6 HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/711.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEY:DIRETTA 10" tvg-logo="" group-title="",VOLLEY:DIRETTA 10
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/725.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- Ragazzi - BAMBINI ----" tvg-logo="" group-title="",---- Ragazzi - BAMBINI ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/258.ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Premium Boing" tvg-logo="" group-title="",Premium Boing
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/268.ts
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Premium Cartoonito" tvg-logo="" group-title="",Premium Cartoonito
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/269.ts
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="" group-title="",Nickelodeon
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/261.ts
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV" tvg-logo="" group-title="",Baby TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/266.ts
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/262.ts
+#EXTINF:-1 tvg-id="DisneyXD.it" tvg-name="Disney XD HD" tvg-logo="" group-title="",Disney XD HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/265.ts
+#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="DisneyChannel HD" tvg-logo="" group-title="",DisneyChannel HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/264.ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="" group-title="",Rai Gulp
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/271.ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-logo="" group-title="",Rai YoYo
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/270.ts
+#EXTINF:-1 tvg-id="ManGa.it" tvg-name="MAN-GA" tvg-logo="" group-title="",MAN-GA
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- MUSICA ----" tvg-logo="" group-title="",---- MUSICA ----
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5" tvg-logo="" group-title="",RTL 102.5
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio TV" tvg-logo="" group-title="",Virgin Radio TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="" group-title="",Radio 105 TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV" tvg-logo="" group-title="",Radio Italia TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Montecarlo TV" tvg-logo="" group-title="",Radio Montecarlo TV
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/253.ts
+#EXTINF:-1 tvg-id="DEAjr.it" tvg-name="Dea Junior HD" tvg-logo="" group-title="",Dea Junior HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/698.ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeAKids" tvg-logo="" group-title="",DeAKids
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/259.ts
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="" group-title="",Frisbee
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/702.ts
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="" group-title="",K2
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/701.ts
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr" tvg-logo="" group-title="",Nick Jr
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/260.ts
+#EXTINF:-1 tvg-id="TeenNick.it" tvg-name="Teen Nick HD" tvg-logo="" group-title="",Teen Nick HD
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/699.ts
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-logo="" group-title="",Super!
+http://livecdn.info:80/live/U8sC4aXGRV/NQi7AaMrjy/267.ts
